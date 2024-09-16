@@ -1,0 +1,13 @@
+Title: One of the world’s most congested cities just opened its first metro line
+
+Authors: {Heather Chen}
+
+Publication Date: 2022-12-29 07:40:01+00:00
+
+Summary: CNN —Bangladesh on Wednesday launched its first metro rail service in the capital Dhaka, with officials and commuters hopeful it will help ease traffic in one of the world’s most densely populated and congested cities.
+Commuters make their way through a traffic jam in Dhaka, Bangladesh on September 13, 2022.
+The problem is exacerbated by the country’s overreliance on cars and – until now – lack of organized public transport, they say.
+Public transport has the power to change our lives.”The new metro line was a beacon of hope for improving the lives of Dhaka’s residents, she said.
+“Great world cities in Singapore, Japan and France have superb developed public transport systems,” she said.
+
+Sentiment: Polarity : 0.11806612927302584, Sentiment : positive
